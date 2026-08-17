@@ -19,6 +19,7 @@ void pattern(int n){
     }
 
 }
+
 int main(){
     pattern(5);
 }
